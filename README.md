@@ -34,10 +34,3 @@ This project addresses these challenges using Salesforce Admin capabilities.
 - Reports & dashboards for audit and compliance
 
 ---
-
-## 📒 Build Log
-
-### Day 0 – Project Kickoff
-- Project repository created
-- Defined project scope and constraints
-- Preparing architecture and data model
